@@ -1,9 +1,7 @@
 import React, { useRef, useState } from 'react';
 import hamaraImage from "./images/cm-main-img.png";
-import "./css/app.css";
-import './css/line-awesome.css'
 import './css/style.css'
-import './css/responsive.css'
+
 import { Link } from "react-router-dom";
 import url from "../core/index";
 import axios from "axios";
