@@ -1,6 +1,5 @@
 import React, { useRef } from 'react';
 import hamaraImage from "./images/cm-main-img.png";
-import './css/style.css'
 import { Link } from "react-router-dom";
 import url from "../core/index";
 import axios from 'axios';
